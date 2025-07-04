@@ -1,0 +1,40 @@
+IndentWidth: 4
+AlignAfterOpenBracket: Align
+AlignArrayOfStructures: Right
+AllowShortCaseExpressionOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: false
+AlignConsecutiveShortCaseStatements:
+  Enabled: true
+AlignEscapedNewlines: LeftWithLastLine
+BreakBeforeBinaryOperators: None
+AlignTrailingComments:
+  Kind: Always
+MaxEmptyLinesToKeep: 3
+AllowShortBlocksOnASingleLine: Empty
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AllowShortLoopsOnASingleLine: true
+BinPackArguments: true
+BreakAfterAttributes: Leave
+BreakBeforeBraces: Attach
+BreakBeforeTernaryOperators: false
+BreakFunctionDefinitionParameters: false
+BreakStringLiterals: false
+Cpp11BracedListStyle: false
+EmptyLineBeforeAccessModifier: LogicalBlock
+IncludeBlocks: Preserve
+IndentCaseLabels: true
+IndentGotoLabels: false
+IndentWrappedFunctionNames: true
+IntegerLiteralSeparator:
+  Binary: 4
+  Hex: -1
+  Decimal: 3
+  DecimalMinDigits: 7
+PointerAlignment: Right
+SortIncludes: CaseInsensitive
+SpaceBeforeCaseColon: false
+SpaceBeforeParens: Never
+SpaceInEmptyBlock: false
+SpacesInParens: Never
+UseTab: Never
