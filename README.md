@@ -24,8 +24,8 @@ Current Progress
 Major thanks to
 ---
 ZUN for making Touhou :)
-[thtk](https://github.com/thpatch/thtk) for making this possible
-[th06 decomp](https://github.com/happyhavoc/th06) for having a simpler PBG3 implementation
-[th08 decomp](https://github.com/happyhavoc/th08) for having a simpler PBGZ implementation
-[This file](https://github.com/GovanifY/PyTouhou/blob/master/pytouhou/utils/lzss.pyx) for making me finally grok LZSS decompression
-[this vid](https://www.youtube.com/watch?v=08f5Dav72aE) for teaching me how to create libraries in CMake
+[thtk](https://github.com/thpatch/thtk) for making this possible  
+[th06 decomp](https://github.com/happyhavoc/th06) for having a simpler PBG3 implementation  
+[th08 decomp](https://github.com/happyhavoc/th08) for having a simpler PBGZ implementation  
+[This file](https://github.com/GovanifY/PyTouhou/blob/master/pytouhou/utils/lzss.pyx) for making me finally grok LZSS decompression  
+[this vid](https://www.youtube.com/watch?v=08f5Dav72aE) for teaching me how to create libraries in CMake  
