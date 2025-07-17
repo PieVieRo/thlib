@@ -23,7 +23,7 @@ Current Progress
 
 Major thanks to
 ---
-ZUN for making Touhou :)
+ZUN for making Touhou :)  
 [thtk](https://github.com/thpatch/thtk) for making this possible  
 [th06 decomp](https://github.com/happyhavoc/th06) for having a simpler PBG3 implementation  
 [th08 decomp](https://github.com/happyhavoc/th08) for having a simpler PBGZ implementation  
